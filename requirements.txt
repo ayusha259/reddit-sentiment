@@ -1,0 +1,7 @@
+emoji==2.12.1
+matplotlib==3.7.1
+nltk==3.8.1
+pandas==1.5.3
+praw==7.7.1
+spacy==3.7.5
+squarify==0.4.4
